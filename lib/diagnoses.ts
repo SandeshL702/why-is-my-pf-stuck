@@ -42,7 +42,7 @@ Last working day: [DATE]
 Thanks,
 [NAME]`,
     grievance: "My EPFO claim is blocked because the date of exit for my previous employment is missing or incorrect. I contacted the employer on [DATE]. Please ask the employer to update it and enable processing. Employer: [COMPANY].",
-    share: "My PF claim was stuck because my date of exit was not updated. This free tool gave me a ready HR email and EPFiGMS draft: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "My PF claim was stuck because my date of exit was not updated. This free tool gave me a ready HR email and EPFiGMS draft: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   name: {
     title: "Your name may not match across records",
@@ -65,7 +65,7 @@ Member ID: [MEMBER ID]
 Thanks,
 [NAME]`,
     grievance: "My EPFO records have a name mismatch with Aadhaar, preventing my claim. Please advise the correction route. Current name: [CURRENT]. Correct name: [CORRECT].",
-    share: "PF claim stuck because of a name mismatch? I got the HR email and EPFiGMS draft I needed: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "PF claim stuck because of a name mismatch? I got the HR email and EPFiGMS draft I needed: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   dob: {
     title: "Your date of birth may be mismatched",
@@ -88,7 +88,7 @@ Proof attached.
 Thanks,
 [NAME]`,
     grievance: "My claim is blocked due to a DOB mismatch in EPFO. Please guide the correction and reprocess it. Correct DOB: [DD/MM/YYYY].",
-    share: "A DOB mismatch was why my PF claim stalled. Here is the ready-to-send HR email and grievance: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "A DOB mismatch was why my PF claim stalled. Here is the ready-to-send HR email and grievance: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   kyc: {
     title: "Your KYC is not approved yet",
@@ -111,7 +111,7 @@ Member ID: [MEMBER ID]
 Thanks,
 [NAME]`,
     grievance: "My [AADHAAR / PAN / BANK] KYC is pending employer approval and blocking my claim. Please facilitate approval or advise the next action.",
-    share: "My PF was waiting on employer KYC approval. This tool gave me the nudge email and grievance text: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "My PF was waiting on employer KYC approval. This tool gave me the nudge email and grievance text: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   bank: {
     title: "Your bank account or IFSC needs attention",
@@ -135,7 +135,7 @@ Last 4 digits: [1234]
 Thanks,
 [NAME]`,
     grievance: "My EPFO claim payment is blocked because bank details or IFSC validation failed. I updated the active account and request verification and reprocessing.",
-    share: "Bank or IFSC error holding up your PF? I found the exact checklist and HR note here: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "Bank or IFSC error holding up your PF? I found the exact checklist and HR note here: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   employer: {
     title: "Your employer is the bottleneck",
@@ -158,7 +158,7 @@ Member ID: [MEMBER ID]
 Thanks,
 [NAME]`,
     grievance: "My previous employer has not completed the EPFO action needed for my claim: [EXACT ACTION]. I contacted them on [DATES] with no resolution. Please intervene.",
-    share: "When HR goes silent, document it and escalate. This PF tool gave me a clean HR follow-up and EPFiGMS draft: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "When HR goes silent, document it and escalate. This PF tool gave me a clean HR follow-up and EPFiGMS draft: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   form: {
     title: "You may be in an EPS or form waiting period",
@@ -181,7 +181,7 @@ Member ID: [MEMBER ID]
 Thanks,
 [NAME]`,
     grievance: "My EPFO claim was returned and I need clarification on the correct claim type based on my service history. Please provide the correct route and reason.",
-    share: "Not every PF claim uses the same form. I used this diagnostic to understand my EPS or form wait: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "Not every PF claim uses the same form. I used this diagnostic to understand my EPS or form wait: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   transfer: {
     title: "Your PF transfer is still in the chain",
@@ -204,7 +204,7 @@ Member ID: [MEMBER ID]
 Thanks,
 [NAME]`,
     grievance: "My PF transfer claim [CLAIM ID] has been pending since [DATE]. Please check the transfer chain and complete the pending action.",
-    share: "PF transfer stuck? The blocker is usually somewhere in the chain. Checklist and grievance: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "PF transfer stuck? The blocker is usually somewhere in the chain. Checklist and grievance: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
   unclear: {
     title: "There is not enough signal yet",
@@ -227,7 +227,7 @@ Member ID: [MEMBER ID]
 Thanks,
 [NAME]`,
     grievance: "My EPFO claim shows: [PASTE STATUS]. Please confirm the specific blocker, responsible party and action required. Claim ID: [ID].",
-    share: "I used a free PF diagnostic to turn a confusing EPFO status into next steps, an HR email and EPFiGMS draft: https://sandeshl702.github.io/why-is-my-pf-stuck/",
+    share: "I used a free PF diagnostic to turn a confusing EPFO status into next steps, an HR email and EPFiGMS draft: https://sandeshog.github.io/why-is-my-pf-stuck/",
   },
 };
 

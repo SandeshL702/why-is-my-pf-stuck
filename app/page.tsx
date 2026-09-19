@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { detect, diagnoses, symptomOptions, type Bucket } from "../lib/diagnoses";
 
-const SITE_URL = "https://sandeshl702.github.io/why-is-my-pf-stuck/";
+const SITE_URL = "https://sandeshog.github.io/why-is-my-pf-stuck/";
 type Mode = "paste" | "symptom";
 
 type CopyButtonProps = {

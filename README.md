@@ -1,11 +1,11 @@
 # Why Is My PF Stuck?
 
 <p align="center">
-  <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><img src="docs/preview.png" width="820" alt="Why is my PF stuck? — EPFO rejection helper" /></a>
+  <a href="https://sandeshog.github.io/why-is-my-pf-stuck/"><img src="docs/preview.png" width="820" alt="Why is my PF stuck? — EPFO rejection helper" /></a>
 </p>
 
 <p align="center">
-  <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><strong>Live → sandeshl702.github.io/why-is-my-pf-stuck</strong></a>
+  <a href="https://sandeshog.github.io/why-is-my-pf-stuck/"><strong>Live → sandeshog.github.io/why-is-my-pf-stuck</strong></a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Runs entirely in the browser. **No login. No UAN. No uploads. No analytics.**
 
 ## Live demo
 
-**[https://sandeshl702.github.io/why-is-my-pf-stuck/](https://sandeshl702.github.io/why-is-my-pf-stuck/)**
+**[https://sandeshog.github.io/why-is-my-pf-stuck/](https://sandeshog.github.io/why-is-my-pf-stuck/)**
 
 ## Stack
 
@@ -51,7 +51,7 @@ why is my PF stuck · EPFO claim rejected · provident fund India · EPFiGMS gri
 ## Run locally
 
 ```bash
-git clone https://github.com/SandeshL702/why-is-my-pf-stuck.git
+git clone https://github.com/SandeshOG/why-is-my-pf-stuck.git
 cd why-is-my-pf-stuck
 npm i
 npm run dev
@@ -61,6 +61,6 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## License
 
-MIT · [Sandesh Lanjewar](https://github.com/SandeshL702)
+MIT · [Sandesh Lanjewar](https://github.com/SandeshOG)
 
 Independent utility — not affiliated with EPFO. Not legal or financial advice.

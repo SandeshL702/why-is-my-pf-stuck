@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const siteUrl = "https://sandeshl702.github.io/why-is-my-pf-stuck/";
+const siteUrl = "https://sandeshog.github.io/why-is-my-pf-stuck/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
