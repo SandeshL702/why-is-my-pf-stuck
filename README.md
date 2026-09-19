@@ -1,37 +1,54 @@
-# Why Is My PF Stuck? — EPFO Claim Rejected Diagnostic
+# Why Is My PF Stuck?
 
-**Live:** [sandeshl702.github.io/why-is-my-pf-stuck](https://sandeshl702.github.io/why-is-my-pf-stuck/)
+<p align="center">
+  <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><img src="docs/preview.png" width="820" alt="Why is my PF stuck? — EPFO rejection helper" /></a>
+</p>
 
-Paste the rejection text or pick a symptom. Get a plain-English diagnosis, fix checklist, HR email, and **EPFiGMS grievance** draft.
+<p align="center">
+  <a href="https://sandeshl702.github.io/why-is-my-pf-stuck/"><strong>Live → sandeshl702.github.io/why-is-my-pf-stuck</strong></a>
+</p>
 
-For anyone in India whose **PF is stuck** or whose **EPFO claim was rejected** — and who doesn’t want to decode portal jargon alone.
+<p align="center">
+  <img src="https://img.shields.io/badge/live-demo-0f766e?style=flat-square" alt="live" />
+  <img src="https://img.shields.io/badge/EPFO-PF%20helper-1d4ed8?style=flat-square" alt="epfo" />
+  <img src="https://img.shields.io/badge/privacy-browser%20only-111?style=flat-square" alt="privacy" />
+  <img src="https://img.shields.io/badge/license-MIT-111827?style=flat-square" alt="MIT" />
+</p>
 
-## Who this is for
+**Why is my PF stuck?** helps anyone in India whose EPFO claim was rejected or whose PF status makes no sense.
+
+Paste the rejection line (or pick a symptom). Get a plain-English diagnosis, a fix checklist, a ready HR email, and an **EPFiGMS grievance** draft.
+
+## Who it is for
 
 - Claim rejected for date of exit, name/DOB mismatch, KYC, bank/IFSC, employer issues
 - Wrong form / EPS / transfer problems
-- Status unclear and you need the next concrete step
+- You need the next concrete step — not portal jargon
 
-## What you get
+## Features
 
 | Input | Output |
 |---|---|
-| Rejection text or symptom | Plain-English diagnosis |
-| Same | Fix checklist |
+| EPFO rejection text | Plain-English diagnosis |
+| Or pick a symptom | Fix checklist |
 | Same | Ready-to-send HR email |
 | Same | EPFiGMS grievance draft |
 
-Runs entirely in the browser. **No login, no uploads, no UAN collected, no analytics.**
+Runs entirely in the browser. **No login. No UAN. No uploads. No analytics.**
 
-Not legal or financial advice.
+## Live demo
 
-## How it works
+**[https://sandeshl702.github.io/why-is-my-pf-stuck/](https://sandeshl702.github.io/why-is-my-pf-stuck/)**
 
-1. Paste EPFO rejection text *or* choose a symptom
-2. Matcher maps it to a known failure mode
-3. You get diagnosis + checklist + drafts you can copy
+## Stack
 
-## Quickstart
+Next.js · TypeScript · Tailwind CSS · client-side rules (zero backend)
+
+## SEO keywords
+
+why is my PF stuck · EPFO claim rejected · provident fund India · EPFiGMS grievance · PF date of exit · HR email for PF · EPFO rejection fix
+
+## Run locally
 
 ```bash
 git clone https://github.com/SandeshL702/why-is-my-pf-stuck.git
@@ -42,10 +59,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Stack
-
-Next.js · TypeScript · Tailwind CSS · client-side rules (zero backend)
-
 ## License
 
 MIT · [Sandesh Lanjewar](https://github.com/SandeshL702)
+
+Independent utility — not affiliated with EPFO. Not legal or financial advice.
