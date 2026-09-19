@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F8FAFC"/>
+  <rect x="72" y="70" width="66" height="66" rx="16" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="2"/>
+  <text x="105" y="112" fill="#3730A3" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">PF</text>
+  <text x="72" y="248" fill="#172033" font-family="Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">Why is my PF stuck?</text>
+  <text x="72" y="326" fill="#64748B" font-family="Arial, sans-serif" font-size="27">Find the blocker. Get a clear next step.</text>
+  <rect x="72" y="445" width="368" height="58" rx="10" fill="#4F46E5"/>
+  <text x="256" y="482" fill="white" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle">Plain-English EPFO fix pack</text>
+  <circle cx="1100" cy="82" r="170" fill="#EEF2FF"/>
+  <circle cx="1100" cy="82" r="112" fill="#E0E7FF"/>
+</svg>
